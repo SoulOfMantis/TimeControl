@@ -1,0 +1,196 @@
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\settings.json
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.exe
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.dll.config
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.deps.json
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.runtimeconfig.json
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.pdb
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\CommonServiceLocator.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\ControlzEx.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\MahApps.Metro.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Markdig.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\MaterialDesignColors.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\MaterialDesignThemes.Wpf.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\MaterialDesignThemes.MahApps.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.CodeAnalysis.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Xaml.Behaviors.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\GalaSoft.MvvmLight.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\System.Windows.Interactivity.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Newtonsoft.Json.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\System.Diagnostics.EventLog.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Win32.TaskScheduler.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\ja\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\sv\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\tr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\debian-x64\native\libuv.so
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\fedora-x64\native\libuv.so
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\opensuse-x64\native\libuv.so
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\osx\native\libuv.dylib
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\rhel-x64\native\libuv.so
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win7-arm\native\libuv.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win7-x64\native\libuv.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win7-x86\native\libuv.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.xml
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\sa\Downloads\proj\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.csproj.AssemblyReference.cache
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\MarkdownViewerPage.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\MarkdownViewer.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\SelectFolderDialog.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\MarkdownViewerPage.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\CalendarPage.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\HomePage.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\MainWindow.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\MarkdownViewer.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\NewFileWindow.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\NewFolderWindow.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\ReminderDetailsWindow.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\SelectFolderDialog.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\SettingsWindow.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\TaskCreationWindow.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\App.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes_Content.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes_MarkupCompile.cache
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes_MarkupCompile.lref
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\App.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\CalendarPage.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\HomePage.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\MainWindow.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\NewFileWindow.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\NewFolderWindow.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\ReminderDetailsWindow.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\SettingsWindow.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\TaskCreationWindow.baml
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.g.resources
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.AssemblyInfoInputs.cache
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.AssemblyInfo.cs
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.csproj.CoreCompileInputs.cache
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.sourcelink.json
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.csproj.Up2Date
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.dll
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\refint\UruruNotes.dll
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.pdb
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.genruntimeconfig.cache
+C:\Users\sa\Downloads\proj\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\ref\UruruNotes.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\settings.json
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.exe
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.dll.config
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.deps.json
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.runtimeconfig.json
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\UruruNotes.pdb
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\CommonServiceLocator.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\ControlzEx.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\MahApps.Metro.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Markdig.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\MaterialDesignColors.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\MaterialDesignThemes.Wpf.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\MaterialDesignThemes.MahApps.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.CodeAnalysis.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Xaml.Behaviors.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\GalaSoft.MvvmLight.Extras.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\GalaSoft.MvvmLight.Platform.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\GalaSoft.MvvmLight.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\System.Windows.Interactivity.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Newtonsoft.Json.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\System.Diagnostics.EventLog.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Win32.TaskScheduler.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\ja\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\pl\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\ru\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\sv\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\tr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\debian-x64\native\libuv.so
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\fedora-x64\native\libuv.so
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\opensuse-x64\native\libuv.so
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\osx\native\libuv.dylib
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\rhel-x64\native\libuv.so
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win7-arm\native\libuv.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win7-x64\native\libuv.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win7-x86\native\libuv.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.WinForms.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.xml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.WinForms.xml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\bin\Debug\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.xml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.csproj.AssemblyReference.cache
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\MarkdownViewerPage.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\MarkdownViewer.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\SelectFolderDialog.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\MarkdownViewerPage.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\CalendarPage.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\HomePage.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\MainWindow.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\MarkdownViewer.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\NewFileWindow.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\NewFolderWindow.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\ReminderDetailsWindow.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\SelectFolderDialog.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\SettingsWindow.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\TaskCreationWindow.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\App.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes_Content.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\GeneratedInternalTypeHelper.g.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes_MarkupCompile.cache
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes_MarkupCompile.lref
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\App.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\CalendarPage.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\HomePage.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\MainWindow.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\NewFileWindow.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\NewFolderWindow.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\ReminderDetailsWindow.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\SettingsWindow.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\Views\TaskCreationWindow.baml
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.g.resources
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.AssemblyInfoInputs.cache
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.AssemblyInfo.cs
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.csproj.CoreCompileInputs.cache
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.sourcelink.json
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.csproj.Up2Date
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\refint\UruruNotes.dll
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.pdb
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\UruruNotes.genruntimeconfig.cache
+D:\Users\sa\Documents\1 тима\ЮФУ\2 курс\ПИ\TimeControl\TimeControl\TimeControl\UruruNotes\obj\Debug\net8.0-windows10.0.17763.0\ref\UruruNotes.dll
