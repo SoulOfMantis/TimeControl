@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  timeserver:
+    build:
+      context: .
+      dockerfile: TimeTrackerServer/Dockerfile
+    ports:
+      - "5000:5000"
+    networks:
+      - timetracker-network
+    container_name: time-tracker-server
+
+  timeclient:
+    build:
+      context: .
+      dockerfile: TimeTrackerClient/Dockerfile
+    depends_on:
+      - timeserver
+    networks:
+      - timetracker-network
+    container_name: time-tracker-client
+
+networks:
+  timetracker-network:
+    driver: bridge

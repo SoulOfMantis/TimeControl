@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "TimeTrackerServer.Controllers.ProductivityController",
+    "Method": "Get",
+    "RelativePath": "api/Productivity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimeTrackerServer.Controllers.TasksController",
+    "Method": "Get",
+    "RelativePath": "api/Tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

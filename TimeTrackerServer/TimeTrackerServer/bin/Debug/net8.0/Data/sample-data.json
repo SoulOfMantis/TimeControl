@@ -1,0 +1,16 @@
+{
+  "productivity": [
+    {
+      "date": "2024-01-15",
+      "workTime": 245,
+      "breakTime": 45,
+      "entertainmentTime": 120,
+      "activeApplications": ["Visual Studio", "Browser", "Word"]
+    }
+  ],
+  "tasks": [
+    {"id": 1, "name": "Complete Docker assignment", "completed": true},
+    {"id": 2, "name": "Write client application", "completed": false},
+    {"id": 3, "name": "Test Docker Compose", "completed": false}
+  ]
+}
