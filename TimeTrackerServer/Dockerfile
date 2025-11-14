@@ -1,7 +1,7 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["TimeTrackerServer/TimeTrackerServer.csproj", "TimeTrackerServer/"]
-RUN dotnet restore "TimeTrackerServer/TimeTrackerServer.csproj"
+COPY ["TimeTrackerServer/TimeTrackerServer.csproj", "."]
+RUN dotnet restore "./TimeTrackerServer.csproj"
 COPY . .
 WORKDIR "/src/TimeTrackerServer"
 RUN dotnet build "TimeTrackerServer.csproj" -c Release -o /app/build
