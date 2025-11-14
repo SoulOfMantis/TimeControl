@@ -13,7 +13,17 @@ namespace TimeTrackerClient
         static async Task Main(string[] args)
         {
             Console.WriteLine("Time Tracker Client started...");
-            Console.WriteLine("Press Ctrl+C to stop\n");
+            Console.WriteLine("Testing connection to server...");
+
+            // Тестируем подключение сначала
+            bool connected = await TestConnection();
+            if (!connected)
+            {
+                Console.WriteLine("Cannot connect to server. Exiting.");
+                return;
+            }
+
+            Console.WriteLine("Connection successful! Starting monitoring...\n");
 
             while (true)
             {
@@ -25,7 +35,7 @@ namespace TimeTrackerClient
                     Console.WriteLine($"Last update: {DateTime.Now:HH:mm:ss}");
                     Console.WriteLine(new string('-', 50));
 
-                    await Task.Delay(10000); // 10 секунд
+                    await Task.Delay(10000);
                 }
                 catch (Exception ex)
                 {
@@ -33,6 +43,25 @@ namespace TimeTrackerClient
                     Console.WriteLine("Retrying in 10 seconds...");
                     await Task.Delay(10000);
                 }
+            }
+        }
+
+        static async Task<bool> TestConnection()
+        {
+            try
+            {
+                var response = await client.GetAsync($"{serverUrl}/");
+                if (response.IsSuccessStatusCode)
+                {
+                    return true;
+                }
+                Console.WriteLine($"Server responded with: {response.StatusCode}");
+                return false;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Connection test failed: {ex.Message}");
+                return false;
             }
         }
 

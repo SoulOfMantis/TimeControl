@@ -10,13 +10,19 @@ services:
     networks:
       - timetracker-network
     container_name: time-tracker-server
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
   timeclient:
     build:
       context: .
       dockerfile: TimeTrackerClient/Dockerfile
     depends_on:
-      - timeserver
+      timeserver:
+        condition: service_healthy
     networks:
       - timetracker-network
     container_name: time-tracker-client
