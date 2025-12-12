@@ -7,7 +7,7 @@ for (int i = 1; i < n; i++)
 		{
 			if ((i*i + j*j) == (k*k))
 			{
-                Console.WriteLine($"{i}^2[{i*i}] + {j}^2[{j*j}] = {k}^2[{k*k}]");
+                Console.WriteLine($"{i}^2[{i*i}] + {j}^2[{j*j}] = {k}^2[{k*k}]")
 				break;
             }
         }
