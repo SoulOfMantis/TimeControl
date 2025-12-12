@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj",
+      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj",
       "projectName": "TeamCityTripples",
-      "projectPath": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj",
+      "projectPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj",
       "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TeamCityTripples\\obj\\",
+      "outputPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",

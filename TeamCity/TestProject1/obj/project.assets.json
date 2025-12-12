@@ -1947,11 +1947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1968,8 +1968,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj": {
-              "projectPath": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj"
+            "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj": {
+              "projectPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj"
             }
           }
         }
