@@ -1,6 +1,6 @@
 ﻿class Class1
 {
-    static void /Main()
+    static void Main()
     {
         Console.WriteLine("Hello world");
     }
