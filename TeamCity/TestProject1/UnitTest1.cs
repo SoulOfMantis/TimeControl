@@ -1,4 +1,5 @@
-﻿using System.Linq.Expressions;
+using Microsoft.VisualStudio.TestPlatform.TestHost;
+using System.Linq.Expressions;
 
 namespace TestProject
 {
