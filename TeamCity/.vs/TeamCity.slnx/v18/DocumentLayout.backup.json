@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3104BDD-F5A8-C9D0-D32D-410742116AA3}|TeamCityTripples\\TeamCityTripples.csproj|c:\\users\\public\\documents\\timecontrol\\teamcity\\teamcitytripples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3104BDD-F5A8-C9D0-D32D-410742116AA3}|TeamCityTripples\\TeamCityTripples.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\timecontrol\\teamcity\\teamcitytripples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3104BDD-F5A8-C9D0-D32D-410742116AA3}|TeamCityTripples\\TeamCityTripples.csproj|solutionrelative:teamcitytripples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TeamCityTripples\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\Program.cs",
               "RelativeDocumentMoniker": "TeamCityTripples\\Program.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\TimeControl\\TeamCity\\TeamCityTripples\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\Program.cs",
               "RelativeToolTip": "TeamCityTripples\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T15:49:31.619Z",
               "EditorCaption": ""
