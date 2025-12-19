@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6902D478-F4DA-4115-8883-38A864DAAC19}|Project1.vcxproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6902D478-F4DA-4115-8883-38A864DAAC19}|Project1.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\Project1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6902D478-F4DA-4115-8883-38A864DAAC19}|Project1.vcxproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\Project1\\triples.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6902D478-F4DA-4115-8883-38A864DAAC19}|Project1.vcxproj|solutionrelative:triples.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6902D478-F4DA-4115-8883-38A864DAAC19}|Project1.vcxproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6902D478-F4DA-4115-8883-38A864DAAC19}|Project1.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cpp",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\Project1\\UnitTest1\\UnitTest1.cpp",
               "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "triples.h",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\Project1\\triples.h",
               "RelativeDocumentMoniker": "triples.h",
@@ -47,12 +47,11 @@
               "RelativeToolTip": "triples.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-19T18:50:43.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T18:50:43.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\TimeControl\\TeamCity\\Project1\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
