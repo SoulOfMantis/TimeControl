@@ -1,7 +1,7 @@
-FROM gcc:latest as build
+FROM gcc:latest
 
 ADD ./TeamCity/Project1 /app/src
 
 WORKDIR /app/build
-RUN build -o myapp Source.cpp
+RUN gcc -o myapp Source.cpp
 CMD ["./myapp"]
