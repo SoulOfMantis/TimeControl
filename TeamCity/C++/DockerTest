@@ -1,7 +1,7 @@
 FROM gcc:latest
 
-ADD ./TeamCity/Project1 /app/src
-
+ADD ./UnitTest1 /app/src
+COPY app/src /app/build
 WORKDIR /app/build
-RUN g++ -o myapp /app/src/Source.cpp
-##CMD ["./myapp"]
+RUN g++ -o mytest UnitTest1/UnitTest1.cpp
+ENTRYPOINT ["UnitTest1/UnitTest1.cpp"]
