@@ -1,7 +1,6 @@
 FROM gcc:latest
 
 ADD ./Project1 app/src
-COPY /app/src /app/build
 WORKDIR /app/build
-RUN g++ -o myapp Source.cpp
+RUN g++ -o myapp app/src/Project1/Source.cpp
 ##CMD ["./myapp"]
