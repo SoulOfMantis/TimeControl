@@ -13,7 +13,7 @@ int main()
 				triple_by_Euclidian(m, n, a, b, c);
 				for (size_t k = 1; k < 100; k++)
 				{
-					print_triple_in_file(k * a, k * b, k * c);
+					print_triple_in_file(k * a, k * b, k * c)
 				}
 			}
 		}
