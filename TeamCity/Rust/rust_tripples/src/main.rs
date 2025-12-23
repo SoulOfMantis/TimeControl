@@ -14,7 +14,7 @@ fn main() {
 
 fn triple_by_euclidian(m :u32, n :u32) -> (u32, u32, u32)
 {
-    if (m <= n || n <= 0) {panic!("impossible arguments")};
+    if m <= n || n <= 0 {panic!("impossible arguments")};
 	let a = m * n;
 	let b = (m * m - n * n) / 2;
 	let c = (m * m + n * n) / 2;
