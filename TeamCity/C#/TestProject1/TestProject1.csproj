@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TeamCityTripples\TeamCityTripples.csproj" />
+    <ProjectReference Include="..\TeamCityTriples\TeamCityTripples.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1927,8 +1927,8 @@
     },
     "TeamCityTripples/1.0.0": {
       "type": "project",
-      "path": "../TeamCityTripples/TeamCityTripples.csproj",
-      "msbuildProject": "../TeamCityTripples/TeamCityTripples.csproj"
+      "path": "../TeamCityTriples/TeamCityTripples.csproj",
+      "msbuildProject": "../TeamCityTriples/TeamCityTripples.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1947,11 +1947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\C#\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\C#\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\C#\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1968,8 +1968,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj": {
-              "projectPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\TeamCityTripples\\TeamCityTripples.csproj"
+            "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\C#\\TeamCityTriples\\TeamCityTripples.csproj": {
+              "projectPath": "C:\\Users\\Андрей\\Desktop\\TimeControl\\TeamCity\\C#\\TeamCityTriples\\TeamCityTripples.csproj"
             }
           }
         }
@@ -2031,7 +2031,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
