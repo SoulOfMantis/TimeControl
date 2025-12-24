@@ -2,8 +2,8 @@
 mod tests {
     #[test]
     #[should_panic]
-    fn test_negative() {
-        triple_by_euclidian(3, -1);
+    fn test_zero() {
+        triple_by_euclidian(3, 0);
     }
 
     #[test]
